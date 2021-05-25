@@ -1,0 +1,142 @@
+#index {
+  color: #d3d6dd;
+  width: 1920px;
+  height: 1080px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  transform-origin: left top;
+  .bg {
+    width: 100%;
+    height: 100%;
+    padding: 16px 16px 0 16px;
+    background-image: url('../../assets/pageBg.png');
+    background-size: cover;
+    background-position: center center;
+  }
+
+  .host-body {
+    .dv-dec-10,
+    .dv-dec-10-s {
+      width: 33.3%;
+      height: 5px;
+    }
+    .dv-dec-10-s {
+      transform: rotateY(180deg);
+    }
+    .dv-dec-8 {
+      width: 200px;
+      height: 50px;
+    }
+    .title {
+      position: relative;
+      width: 500px;
+      text-align: center;
+      background-size: cover;
+      background-repeat: no-repeat;
+
+      .title-text {
+        font-size: 24px;
+        position: absolute;
+        bottom: 0;
+        left: 50%;
+        transform: translate(-50%);
+      }
+
+      .dv-dec-6 {
+        position: absolute;
+        bottom: -30px;
+        left: 50%;
+        width: 250px;
+        height: 8px;
+        transform: translate(-50%);
+      }
+    }
+
+    // 第二行
+    .aside-width {
+      width: 40%;
+    }
+    .react-r-s,
+    .react-l-s {
+      background-color: #0f1325;
+    }
+
+    // 平行四边形
+    .react-right {
+      &.react-l-s {
+        text-align: right;
+        width: 500px;
+      }
+      font-size: 18px;
+      width: 300px;
+      line-height: 50px;
+      text-align: center;
+      transform: skewX(-45deg);
+
+      .react-after {
+        position: absolute;
+        right: -25px;
+        top: 0;
+        height: 50px;
+        width: 50px;
+        background-color: #0f1325;
+        transform: skewX(45deg);
+      }
+
+      .text {
+        display: inline-block;
+        transform: skewX(45deg);
+      }
+    }
+
+    .react-left {
+      &.react-l-s {
+        width: 500px;
+        text-align: left;
+      }
+      font-size: 18px;
+      width: 300px;
+      height: 50px;
+      line-height: 50px;
+      text-align: center;
+      transform: skewX(45deg);
+      background-color: #0f1325;
+
+      .react-before {
+        position: absolute;
+        left: -25px;
+        top: 0;
+        height: 50px;
+        width: 50px;
+        background-color: #0f1325;
+        transform: skewX(-45deg);
+      }
+
+      .text {
+        display: inline-block;
+        transform: skewX(-45deg);
+      }
+    }
+
+    .body-box {
+      margin-top: 16px;
+      display: flex;
+      flex-direction: column;
+
+      //下方区域的布局
+      .content-box {
+        display: grid;
+        grid-template-columns: 2fr 3fr 5fr 3fr 2fr;
+      }
+
+      // 底部数据
+      .bototm-box {
+        margin-top: 10px;
+        display: grid;
+        grid-template-columns: repeat(2, 50%);
+      }
+    }
+  }
+}

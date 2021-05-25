@@ -1,0 +1,127 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2091333 */
+  src: url('iconfont.woff2?t=1620956942234') format('woff2'),
+       url('iconfont.woff?t=1620956942234') format('woff'),
+       url('iconfont.ttf?t=1620956942234') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-tongji:before {
+  content: "\e615";
+}
+
+.icon-tongji2:before {
+  content: "\e616";
+}
+
+.icon-tongji4:before {
+  content: "\e617";
+}
+
+.icon-zhibiao2:before {
+  content: "\e618";
+}
+
+.icon-fenxi2:before {
+  content: "\e619";
+}
+
+.icon-fenxi7:before {
+  content: "\e61a";
+}
+
+.icon-fenxi5:before {
+  content: "\e61b";
+}
+
+.icon-shuju7:before {
+  content: "\e61c";
+}
+
+.icon-yingyong:before {
+  content: "\e62b";
+}
+
+.icon-lock:before {
+  content: "\e7fb";
+}
+
+.icon-align-left:before {
+  content: "\e7fd";
+}
+
+.icon-border-bottom:before {
+  content: "\e7fe";
+}
+
+.icon-clouddownload:before {
+  content: "\e81b";
+}
+
+.icon-cloudupload:before {
+  content: "\e81c";
+}
+
+.icon-rank:before {
+  content: "\e86a";
+}
+
+.icon-early-warning:before {
+  content: "\e86e";
+}
+
+.icon-vector:before {
+  content: "\e888";
+}
+
+.icon-monitoring:before {
+  content: "\e88e";
+}
+
+.icon-diagnose:before {
+  content: "\e88f";
+}
+
+.icon-Directory-tree:before {
+  content: "\e892";
+}
+
+.icon-application:before {
+  content: "\e89e";
+}
+
+.icon-supervise:before {
+  content: "\e777";
+}
+
+.icon-chart-pie-alt:before {
+  content: "\e78c";
+}
+
+.icon-chart-area:before {
+  content: "\e78f";
+}
+
+.icon-chart-line:before {
+  content: "\e790";
+}
+
+.icon-chart-bar:before {
+  content: "\e791";
+}
+
+.icon-laptop:before {
+  content: "\e797";
+}
+
+.icon-layer-group:before {
+  content: "\e7f7";
+}
+

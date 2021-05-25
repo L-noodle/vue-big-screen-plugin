@@ -1,0 +1,205 @@
+{
+  "id": "2091333",
+  "name": "react可视化",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15383964",
+      "name": "统计",
+      "font_class": "tongji",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "15383969",
+      "name": "统计2",
+      "font_class": "tongji2",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "15383974",
+      "name": "统计4",
+      "font_class": "tongji4",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "15383975",
+      "name": "指标2",
+      "font_class": "zhibiao2",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "15392648",
+      "name": "分析2",
+      "font_class": "fenxi2",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "15392654",
+      "name": "分析7",
+      "font_class": "fenxi7",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "15392658",
+      "name": "分析5",
+      "font_class": "fenxi5",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "15392671",
+      "name": "数据7",
+      "font_class": "shuju7",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "15736987",
+      "name": "应用",
+      "font_class": "yingyong",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "6151228",
+      "name": "lock",
+      "font_class": "lock",
+      "unicode": "e7fb",
+      "unicode_decimal": 59387
+    },
+    {
+      "icon_id": "6151231",
+      "name": "align-left",
+      "font_class": "align-left",
+      "unicode": "e7fd",
+      "unicode_decimal": 59389
+    },
+    {
+      "icon_id": "6151232",
+      "name": "border-bottom",
+      "font_class": "border-bottom",
+      "unicode": "e7fe",
+      "unicode_decimal": 59390
+    },
+    {
+      "icon_id": "6151277",
+      "name": "cloud download",
+      "font_class": "clouddownload",
+      "unicode": "e81b",
+      "unicode_decimal": 59419
+    },
+    {
+      "icon_id": "6151278",
+      "name": "cloud upload",
+      "font_class": "cloudupload",
+      "unicode": "e81c",
+      "unicode_decimal": 59420
+    },
+    {
+      "icon_id": "6303226",
+      "name": "rank",
+      "font_class": "rank",
+      "unicode": "e86a",
+      "unicode_decimal": 59498
+    },
+    {
+      "icon_id": "6353292",
+      "name": "early-warning",
+      "font_class": "early-warning",
+      "unicode": "e86e",
+      "unicode_decimal": 59502
+    },
+    {
+      "icon_id": "8762556",
+      "name": "vector",
+      "font_class": "vector",
+      "unicode": "e888",
+      "unicode_decimal": 59528
+    },
+    {
+      "icon_id": "9340469",
+      "name": "monitoring",
+      "font_class": "monitoring",
+      "unicode": "e88e",
+      "unicode_decimal": 59534
+    },
+    {
+      "icon_id": "9340470",
+      "name": "diagnose",
+      "font_class": "diagnose",
+      "unicode": "e88f",
+      "unicode_decimal": 59535
+    },
+    {
+      "icon_id": "11307823",
+      "name": "Directory tree",
+      "font_class": "Directory-tree",
+      "unicode": "e892",
+      "unicode_decimal": 59538
+    },
+    {
+      "icon_id": "12253601",
+      "name": "application",
+      "font_class": "application",
+      "unicode": "e89e",
+      "unicode_decimal": 59550
+    },
+    {
+      "icon_id": "6150971",
+      "name": "supervise",
+      "font_class": "supervise",
+      "unicode": "e777",
+      "unicode_decimal": 59255
+    },
+    {
+      "icon_id": "6151030",
+      "name": "chart-pie-alt",
+      "font_class": "chart-pie-alt",
+      "unicode": "e78c",
+      "unicode_decimal": 59276
+    },
+    {
+      "icon_id": "6151033",
+      "name": "chart-area",
+      "font_class": "chart-area",
+      "unicode": "e78f",
+      "unicode_decimal": 59279
+    },
+    {
+      "icon_id": "6151034",
+      "name": "chart-line",
+      "font_class": "chart-line",
+      "unicode": "e790",
+      "unicode_decimal": 59280
+    },
+    {
+      "icon_id": "6151035",
+      "name": "chart-bar",
+      "font_class": "chart-bar",
+      "unicode": "e791",
+      "unicode_decimal": 59281
+    },
+    {
+      "icon_id": "6151041",
+      "name": "laptop",
+      "font_class": "laptop",
+      "unicode": "e797",
+      "unicode_decimal": 59287
+    },
+    {
+      "icon_id": "6151223",
+      "name": "layer-group",
+      "font_class": "layer-group",
+      "unicode": "e7f7",
+      "unicode_decimal": 59383
+    }
+  ]
+}
